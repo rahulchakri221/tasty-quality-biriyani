@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>
+    Tasty & Quality Biriyani | Gudur
+  </title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  >
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  >
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<!-- =====================================================
+     HERO SECTION
+===================================================== -->
+
+<section class="hero">
+
+
+  <!-- Animated background -->
+  <div class="background"></div>
+
+
+  <!-- Golden light effects -->
+  <div class="glow glow-one"></div>
+
+  <div class="glow glow-two"></div>
+
+  <div class="glow glow-three"></div>
+
+
+  <!-- Floating particles -->
+  <div class="particles">
+
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+
+  </div>
+
+
+  <!-- Top label -->
+  <div class="top-label">
+
+    <span></span>
+
+    GUDUR'S PREMIUM FOOD DESTINATION
+
+    <span></span>
+
+  </div>
+
+
+
+  <!-- Left vertical text -->
+
+  <div class="vertical-text left">
+
+    AUTHENTIC • AROMATIC • ROYAL
+
+  </div>
+
+
+  <!-- Right vertical text -->
+
+  <div class="vertical-text right">
+
+    NOODLES • BIRIYANI • CHINESE
+
+  </div>
+
+
+
+  <!-- =================================================
+       MAIN CONTENT
+  ================================================== -->
+
+  <div class="hero-content">
+
+
+    <div class="est">
+
+      EST. • TASTY & QUALITY
+
+    </div>
+
+
+    <h1>
+
+      <span class="title-one">
+
+        TASTY &
+
+      </span>
+
+
+      <span class="title-two">
+
+        QUALITY
+
+      </span>
+
+
+      <span class="biriyani">
+
+        BIRIYANI
+
+      </span>
+
+    </h1>
+
+
+
+    <!-- Divider -->
+
+    <div class="divider">
+
+      <span></span>
+
+      <b>✦</b>
+
+      <span></span>
+
+    </div>
+
+
+
+    <!-- Tagline -->
+
+    <div class="tagline">
+
+      WHERE EVERY GRAIN TELLS A
+
+      <strong>STORY.</strong>
+
+    </div>
+
+
+
+    <!-- Description -->
+
+    <p class="description">
+
+      Aromatic dum biriyani, sizzling noodles,
+      fried rice and irresistible Chinese
+      favourites — crafted to make every
+      meal memorable.
+
+    </p>
+
+
+
+    <!-- Buttons -->
+
+    <div class="buttons">
+
+
+      <a
+        class="btn primary"
+        href="https://wa.me/919121919181"
+        target="_blank"
+      >
+
+        ORDER ON WHATSAPP
+
+        <strong>→</strong>
+
+      </a>
+
+
+      <a
+        class="btn secondary"
+        href="#menu"
+      >
+
+        EXPLORE MENU
+
+      </a>
+
+
+    </div>
+
+
+  </div>
+
+
+
+  <!-- =================================================
+       FOOD IMAGE
+  ================================================== -->
+
+  <div class="food">
+
+
+    <div class="food-halo"></div>
+
+
+    <div class="ring ring-one"></div>
+
+    <div class="ring ring-two"></div>
+
+
+    <div class="food-image">
+
+
+      <!--
+        IMPORTANT:
+        This image is loaded from an online source,
+        so you don't need to upload an image yet.
+      -->
+
+      <img
+        src="https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=1000&q=90"
+        alt="Chicken Biryani"
+      >
+
+
+    </div>
+
+
+    <!-- Steam -->
+
+    <div class="steam steam-one"></div>
+
+    <div class="steam steam-two"></div>
+
+    <div class="steam steam-three"></div>
+
+
+  </div>
+
+
+
+  <!-- Designer credit -->
+
+  <div class="designer">
+
+    <small>
+
+      WEBSITE DESIGNED BY
+
+    </small>
+
+    <strong>
+
+      RAHULCHAKRI KASUKURTHI
+
+    </strong>
+
+  </div>
+
+
+
+  <!-- Scroll -->
+
+  <div class="scroll">
+
+    <span></span>
+
+    SCROLL TO DISCOVER
+
+  </div>
+
+
+</section>
+
+
+
+<!-- =====================================================
+     MENU SECTION
+===================================================== -->
+
+<section id="menu" class="menu">
+
+
+  <div class="menu-title">
+
+    <small>
+
+      OUR SPECIALITIES
+
+    </small>
+
+
+    <h2>
+
+      SIGNATURE MENU
+
+    </h2>
+
+
+    <p>
+
+      Crafted with authentic flavours and royal taste.
+
+    </p>
+
+  </div>
+
+
+
+  <div class="menu-grid">
+
+
+    <div class="menu-card">
+
+      <div class="emoji">
+
+        🍗
+
+      </div>
+
+      <h3>
+
+        Chicken Dum Biriyani
+
+      </h3>
+
+      <p>
+
+        Aromatic basmati rice with perfectly
+        cooked chicken.
+
+      </p>
+
+      <strong>
+
+        ₹159
+
+      </strong>
+
+    </div>
+
+
+
+    <div class="menu-card">
+
+      <div class="emoji">
+
+        🍜
+
+      </div>
+
+      <h3>
+
+        Chicken Noodles
+
+      </h3>
+
+      <p>
+
+        Sizzling noodles tossed with
+        authentic Chinese flavours.
+
+      </p>
+
+      <strong>
+
+        ₹129
+
+      </strong>
+
+    </div>
+
+
+
+    <div class="menu-card">
+
+      <div class="emoji">
+
+        🍚
+
+      </div>
+
+      <h3>
+
+        Chicken Fried Rice
+
+      </h3>
+
+      <p>
+
+        Freshly prepared fried rice
+        packed with flavour.
+
+      </p>
+
+      <strong>
+
+        ₹129
+
+      </strong>
+
+    </div>
+
+
+
+    <div class="menu-card">
+
+      <div class="emoji">
+
+        🥘
+
+      </div>
+
+      <h3>
+
+        Chicken Manchurian
+
+      </h3>
+
+      <p>
+
+        Crispy chicken coated in
+        delicious Manchurian sauce.
+
+      </p>
+
+      <strong>
+
+        ₹159
+
+      </strong>
+
+    </div>
+
+
+  </div>
+
+
+
+  <a
+    href="https://wa.me/919121919181"
+    class="menu-order"
+    target="_blank"
+  >
+
+    ORDER YOUR FAVOURITE
+
+    <span>→</span>
+
+  </a>
+
+
+</section>
+
+
+
+<!-- =====================================================
+     FOOTER
+===================================================== -->
+
+<footer>
+
+  <div>
+
+    TASTY & QUALITY BIRIYANI
+
+  </div>
+
+
+  <p>
+
+    GUDUR • ANDHRA PRADESH
+
+  </p>
+
+
+  <small>
+
+    WEBSITE DESIGNED BY
+
+    <strong>
+
+      RAHULCHAKRI KASUKURTHI
+
+    </strong>
+
+  </small>
+
+</footer>
+
+
+
+<!-- JavaScript -->
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
